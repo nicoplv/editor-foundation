@@ -3,7 +3,7 @@
 	"displayName": "Editor Foudation",
 	"version": "0.0.1",
 	"unity": "2019.1",
-	"description": "Foundation to create Editor Inspector faster on Unity",
+	"description": "Foundation to create Editor Inspector faster in Unity",
 	"dependencies": {
 	}
 }
