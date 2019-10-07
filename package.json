@@ -1,7 +1,7 @@
 {
 	"name": "com.nicoplvgames.editor-foundation",
 	"displayName": "Editor Foudation",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"description": "Foundation to create Editor Inspector faster in Unity",
 	"dependencies": {
 	}
